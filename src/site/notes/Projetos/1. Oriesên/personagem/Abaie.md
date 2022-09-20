@@ -7,7 +7,11 @@
 **tipo**:: avatar
 **detalhe**:: avatar de [[Projetos/1. Oriesên/mundo/Eirol|Eirol]]
 **mbti**:: 
-**referência**:: [Abaia (wikipedia)](https://en.wikipedia.org/wiki/Abaia): origem filipina
+
+
+###### Referências
+- [Abaia (wikipedia)](https://en.wikipedia.org/wiki/Abaia): origem filipina
+
 
 ###### Cenas
 
