@@ -1,6 +1,212 @@
-```dataview
-TABLE tipo AS "Raça", detalhe AS "Ocupação"
-FROM #ORIESÊN 
-WHERE contains(categoria,"personagem")
-SORT tipo ASC, file.name ASC
-```
+---
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/arquivos-oriesen/","tags":["LISTA, ORIESÊN, PVV","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+# arquivos Oriesên
+- [[Projetos/1. Oriesên/arquivos Oriesên#Personagens|Personagens]]
+
+- [[Projetos/1. Oriesên/arquivos Oriesên#Lugares|Lugares]]
+	- [[Projetos/1. Oriesên/arquivos Oriesên#Geografia Física|Geografia Física]]
+	- [[Projetos/1. Oriesên/arquivos Oriesên#Geografia Política|Geografia Política]]
+	- [[Projetos/1. Oriesên/arquivos Oriesên#Construções|Construções]]
+
+- [[Projetos/1. Oriesên/arquivos Oriesên#Mundo|Mundo]]
+
+- [[Projetos/1. Oriesên/arquivos Oriesên#Cenas|Cenas]]
+
+
+## Personagens
+| arquivo                                                                                                                                | Raça                 | Ocupação                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
+| [[Projetos/1. Oriesên/personagem/Abaie.md\|Abaie]]                                                                                     | avatar               | avatar de [[Projetos/1. Oriesên/mundo/Eirol|Eirol]]                                                                         |
+| [[Projetos/1. Oriesên/personagem/Goleim.md\|Goleim]]                                                                                   | avatar               | avatar de [[Projetos/1. Oriesên/mundo/Hoderant|Hoderant]]                                                                      |
+| [[Projetos/1. Oriesên/personagem/Heris.md\|Heris]]                                                                                     | avatar               | avatar de [[Projetos/1. Oriesên/mundo/Marek|Marek]]                                                                         |
+| [[Projetos/1. Oriesên/personagem/Ogmia.md\|Ogmia]]                                                                                     | avatar               | avatar de [[Projetos/1. Oriesên/mundo/Lanat|Lanat]]                                                                         |
+| [[Projetos/1. Oriesên/personagem/Roókar.md\|Roókar]]                                                                                   | avatar               | avatar de [[Projetos/1. Oriesên/mundo/Olassu|Olassu]]                                                                        |
+| [[Projetos/1. Oriesên/personagem/Balank.md\|Balank]]                                                                                   | centauro             | mensageiro                                                                                  |
+| [[Projetos/1. Oriesên/personagem/Torôndier.md\|Torôndier]]                                                                             | centauro             | guerreiro                                                                                   |
+| [[Projetos/1. Oriesên/personagem/demônio do espelho.md\|demônio do espelho]]                                                           | demônio              | mago                                                                                        |
+| [[Projetos/1. Oriesên/personagem/dragoa.md\|dragoa]]                                                                                   | dragoa branca        | maga                                                                                        |
+| [[Projetos/1. Oriesên/personagem/prima do elfo de Bewgoriat.md\|prima do elfo de Bewgoriat]]                                           | elfa                 | princesa, exilada                                                                           |
+| [[Projetos/1. Oriesên/personagem/Yannoro.md\|Yannoro]]                                                                                 | elfa                 | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/avô de Yannoro.md\|avô de Yannoro]]                                                                   | elfo                 | rei                                                                                         |
+| [[Projetos/1. Oriesên/personagem/Bielumi Pyonru.md\|Bielumi Pyonru]]                                                                   | elfo                 | filho de comerciantes, estalageiro                                                          |
+| [[Projetos/1. Oriesên/personagem/conde de Aliria.md\|conde de Aliria]]                                                                 | elfo                 | conde de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien#Aliria\|Aliria]]                                                      |
+| [[Projetos/1. Oriesên/personagem/elfinho.md\|elfinho]]                                                                                 | elfo                 | mago                                                                                        |
+| [[Projetos/1. Oriesên/personagem/elfo de Bewgoriat.md\|elfo de Bewgoriat]]                                                             | elfo                 | nobre                                                                                       |
+| [[Projetos/1. Oriesên/personagem/elfo de Elendorin.md\|elfo de Elendorin]]                                                             | elfo                 | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/Ruome Jilash.md\|Ruome Jilash]]                                                                       | elfo                 | capitão                                                                                     |
+| [[Projetos/1. Oriesên/personagem/Ayulana do'Keltwan.md\|Ayulana do'Keltwan]]                                                           | humana               | rainha de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]                                                                       |
+| [[Projetos/1. Oriesên/personagem/Isatore.md\|Isatore]]                                                                                 | humana               | nobre, condessa                                                                             |
+| [[Projetos/1. Oriesên/personagem/Joara.md\|Joara]]                                                                                     | humana               | boticária, Guardiã do [[Projetos/1. Oriesên/mundo/Golmion|Golmion]]                                                           |
+| [[Projetos/1. Oriesên/personagem/mãe do Laus.md\|mãe do Laus]]                                                                         | humana               | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/Merina Heningwe.md\|Merina Heningwe]]                                                                 | humana               | sacerdotisa de [[Projetos/1. Oriesên/mundo/Lanat|Lanat]]                                                                    |
+| [[Projetos/1. Oriesên/personagem/Tessa.md\|Tessa]]                                                                                     | humana               | nobre                                                                                       |
+| [[Projetos/1. Oriesên/personagem/Lis Heningwe.md\|Lis Heningwe]]                                                                       | humana 94%, elfa 6%  | estudante, Guardiã do [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]                                                          |
+| [[Projetos/1. Oriesên/personagem/Seline Heningwe.md\|Seline Heningwe]]                                                                 | humana 94%, elfa 6%  | cantora, Guardiã do [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]], maga                                                      |
+| [[Projetos/1. Oriesên/personagem/Ayú do'Keltwan.md\|Ayú do'Keltwan]]                                                                   | humana 97%, elfa 3%  | princesa                                                                                    |
+| [[Projetos/1. Oriesên/personagem/aprendiz da Seline.md\|aprendiz da Seline]]                                                           | humano               | aprendiz de mago                                                                            |
+| [[Projetos/1. Oriesên/personagem/Banji Leboa.md\|Banji Leboa]]                                                                         | humano               | menestrel                                                                                   |
+| [[Projetos/1. Oriesên/personagem/cavaleiro da Ayú.md\|cavaleiro da Ayú]]                                                               | humano               | escudeiro do [[Projetos/1. Oriesên/personagem/escudeiro do Dilon|escudeiro do Dilon]], cavaleiro da guarda pessoal da [[Ayú do'Keltwan\|Ayú]] |
+| [[Projetos/1. Oriesên/personagem/comandante que encabeçava a rebelião do Império.md\|comandante que encabeçava a rebelião do Império]] | humano               | cavaleiro, capitão                                                                          |
+| [[Projetos/1. Oriesên/personagem/Dilberon do'Keltwan.md\|Dilberon do'Keltwan]]                                                         | humano               | rei de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]                                                                          |
+| [[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\|Dilon do'Keltwan]]                                                               | humano               | príncipe herdeiro, rei de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]                                                       |
+| [[Projetos/1. Oriesên/personagem/escudeiro do Dilon.md\|escudeiro do Dilon]]                                                           | humano               | escudeiro, cavaleiro da Guarda Real                                                         |
+| [[Projetos/1. Oriesên/personagem/Gilfor.md\|Gilfor]]                                                                                   | humano               | fabricante de papel, restaurador, arquivista                                                |
+| [[Projetos/1. Oriesên/personagem/Grão-Mestre Jirrar.md\|Grão-Mestre Jirrar]]                                                           | humano               | Grão-Mestre da [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]                                                     |
+| [[Projetos/1. Oriesên/personagem/Hecter.md\|Hecter]]                                                                                   | humano               | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/Hérsfio.md\|Hérsfio]]                                                                                 | humano               | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/Neiron.md\|Neiron]]                                                                                   | humano               | Guardião do [[Projetos/1. Oriesên/mundo/Cristal do Fogo|Cristal do Fogo]], imperador                                                  |
+| [[Projetos/1. Oriesên/personagem/Orlav.md\|Orlav]]                                                                                     | humano               | cavaleiro                                                                                   |
+| [[Projetos/1. Oriesên/personagem/pai da Joara.md\|pai da Joara]]                                                                       | humano               | boticário                                                                                   |
+| [[Projetos/1. Oriesên/personagem/Sícereo.md\|Sícereo]]                                                                                 | humano               | boticário                                                                                   |
+| [[Projetos/1. Oriesên/personagem/Talbot.md\|Talbot]]                                                                                   | humano               | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/avô do Laus.md\|avô do Laus]]                                                                         | humano 50%, elfo 50% | ferreiro, Guardião do [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]                                                          |
+| [[Projetos/1. Oriesên/personagem/pai do Laus.md\|pai do Laus]]                                                                         | humano 75%, elfo 25% | ferreiro, Guardião do [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]                                                          |
+| [[Projetos/1. Oriesên/personagem/Laus Heningwe.md\|Laus Heningwe]]                                                                     | humano 88%, elfo 12% | ferreiro, Guardião do [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]                                                          |
+| [[Projetos/1. Oriesên/personagem/Guillia.md\|Guillia]]                                                                                 | teriantropa          | soldada, dançarina, caçadora de recompensas                                                 |
+| [[Projetos/1. Oriesên/personagem/Rasmink.md\|Rasmink]]                                                                                 | teriantropa          | guerreira, espiã                                                                            |
+| [[Projetos/1. Oriesên/personagem/Carla Martins.md\|Carla Martins]]                                                                     | terráquea            | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/Antônio Martins.md\|Antônio Martins]]                                                                 | terráqueo            | \-                                                                                          |
+| [[Projetos/1. Oriesên/personagem/T'nar.md\|T'nar]]                                                                                     | tritã                | sacerdotisa de [[Projetos/1. Oriesên/mundo/Yanni|Yanni]]                                                                    |
+| [[Projetos/1. Oriesên/personagem/Klaur.md\|Klaur]]                                                                                     | tritão               | general, Guardião do [[Projetos/1. Oriesên/mundo/Alquion|Alquion]]                                                            |
+| [[Projetos/1. Oriesên/personagem/P'jor.md\|P'jor]]                                                                                     | tritão               | guerreiro                                                                                   |
+
+
+
+## Lugares
+
+### Geografia Física
+| arquivo                                                                                                      | Tipo        |
+| ------------------------------------------------------------------------------------------------------------ | ----------- |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Deserto Âmbar.md\|Deserto Âmbar]]                               | deserto     |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Oceano Cerúleo.md\|Oceano Cerúleo]]                             | oceano      |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Oceano Cobalto.md\|Oceano Cobalto]]                             | oceano      |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Oceano Índigo.md\|Oceano Índigo]]                               | oceano      |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Oceano Turquesa.md\|Oceano Turquesa]]                           | oceano      |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Planalto Meridional.md\|Planalto Meridional]]                   | planalto    |
+| [[Projetos/1. Oriesên/local/geografia/peso 1/Planalto Oeste.md\|Planalto Oeste]]                             | planalto    |
+| [[Projetos/1. Oriesên/local/geografia/peso 2/Grande Arquipélago Ocidental.md\|Grande Arquipélago Ocidental]] | arquipélago |
+| [[Projetos/1. Oriesên/local/geografia/peso 2/Grande Arquipélago Oriental.md\|Grande Arquipélago Oriental]]   | arquipélago |
+| [[Projetos/1. Oriesên/local/geografia/peso 2/Montanhas Argentinas.md\|Montanhas Argentinas]]                 | cordilheira |
+| [[Projetos/1. Oriesên/local/geografia/peso 3/Morros Sibilantes.md\|Morros Sibilantes]]                       | chapada     |
+| [[Projetos/1. Oriesên/local/geografia/peso 3/Floresta Bestial.md\|Floresta Bestial]]                         | floresta    |
+| [[Projetos/1. Oriesên/local/geografia/peso 3/Floresta Ondulante.md\|Floresta Ondulante]]                     | floresta    |
+| [[Projetos/1. Oriesên/local/geografia/peso 3/Lança de Gelo.md\|Lança de Gelo]]                               | montanha    |
+| [[Projetos/1. Oriesên/local/geografia/peso 3/Rio Ahruun.md\|Rio Ahruun]]                                     | rio         |
+
+
+
+### Geografia Política
+| arquivo                                                                                         | Tipo                               |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Império Hailatomano.md\|Império Hailatomano]] | império humano                     |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Brafendol.md\|Brafendol]]                     | reino centáureo caído              |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Reino Imaculado.md\|Reino Imaculado]]         | reino dracônico                    |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Bewgoriat.md\|Bewgoriat]]                     | reino élfico                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Elendorin.md\|Elendorin]]                     | reino élfico                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Siryule.md\|Siryule]]                         | reino élfico                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien.md\|Naarvilien]]                   | reino élfico caído                 |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Cefrália.md\|Cefrália]]                       | reino humano                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Quirvban-Vilatz.md\|Quirvban-Vilatz]]         | reino humano                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Tales.md\|Tales]]                             | reino humano                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian.md\|Thorian]]                         | reino humano                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/Klávia.md\|Klávia]]                           | reino tritão                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 1/outro reino tritão.md\|outro reino tritão]]   | reino tritão                       |
+| [[Projetos/1. Oriesên/local/lugar político/peso 2/Gnambar.md\|Gnambar]]                         | ducado de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]              |
+| [[Projetos/1. Oriesên/local/lugar político/peso 2/Margrel.md\|Margrel]]                         | ducado de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]              |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Aliria.md\|Aliria]]                           | cidade de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]], submersa |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Olvina.md\|Olvina]]                           | cidade de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]              |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Ahrkaren.md\|Ahrkaren]]                       | cidade de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]], capital     |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Noaral.md\|Noaral]]                           | vila de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]                |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Tandem.md\|Tandem]]                           | vila de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]]                |
+| [[Projetos/1. Oriesên/local/lugar político/peso 4/Viladélfos.md\|Viladélfos]]                   | vila de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian|Thorian]], élfica        |
+
+
+
+### Construções
+| arquivo                                                                                                       | Tipo                 |
+| ------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[Projetos/1. Oriesên/local/construção/peso 1/Torre Arcana.md\|Torre Arcana]]                                 | escola de magia      |
+| [[Projetos/1. Oriesên/local/construção/peso 5/castelo de Ahrkaren.md\|castelo de Ahrkaren]]                   | castelo real         |
+| [[Projetos/1. Oriesên/local/construção/peso 5/Mausoléu dos Reis.md\|Mausoléu dos Reis]]                       | cemitério            |
+| [[Projetos/1. Oriesên/local/construção/peso 5/sede da Ordem dos Relicários.md\|sede da Ordem dos Relicários]] | monastério ou abadia |
+| [[Projetos/1. Oriesên/local/construção/peso 5/Oráculo de Ogmia.md\|Oráculo de Ogmia]]                         | templo               |
+| [[Projetos/1. Oriesên/local/construção/peso 5/Templo Circular.md\|Templo Circular]]                           | templo               |
+
+
+
+## Mundo
+| arquivo                                                                                                         | Detalhe                                                                 | Tipo       |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+| [[Projetos/1. Oriesên/mundo/trocar centauros por raça plantóide.md\|trocar centauros por raça plantóide]]       | centauros                                                               | biologia   |
+| [[Projetos/1. Oriesên/mundo/raças de Oriesên.md\|raças de Oriesên]]                                             | espécies conscientes                                                    | biologia   |
+| [[Projetos/1. Oriesên/mundo/Era dos Cristais.md\|Era dos Cristais]]                                             | calendário                                                              | cultura    |
+| [[Projetos/1. Oriesên/mundo/datas de nascimento e morte em Oriesên.md\|datas de nascimento e morte em Oriesên]] | datas                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Airondel.md\|Airondel]]                                                             | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Bonni.md\|Bonni]]                                                                   | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Daagohr.md\|Daagohr]]                                                               | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Eirol.md\|Eirol]]                                                                   | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Hoderant.md\|Hoderant]]                                                             | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Imneroy.md\|Imneroy]]                                                               | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Marek.md\|Marek]]                                                                   | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Olassu.md\|Olassu]]                                                                 | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Selkor.md\|Selkor]]                                                                 | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Zarus.md\|Zarus]]                                                                   | deus                                                                    | cultura    |
+| [[Projetos/1. Oriesên/mundo/Aki.md\|Aki]]                                                                       | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Cyris.md\|Cyris]]                                                                   | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Delliandara.md\|Delliandara]]                                                       | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Fydia.md\|Fydia]]                                                                   | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Jinn.md\|Jinn]]                                                                     | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Lanat.md\|Lanat]]                                                                   | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Vahlena.md\|Vahlena]]                                                               | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Yanni.md\|Yanni]]                                                                   | deusa                                                                   | cultura    |
+| [[Projetos/1. Oriesên/mundo/Panteão de Oriesên.md\|Panteão de Oriesên]]                                         | deuses                                                                  | cultura    |
+| [[Projetos/1. Oriesên/mundo/ditados de Oriesên.md\|ditados de Oriesên]]                                         | ditados                                                                 | cultura    |
+| [[Projetos/1. Oriesên/mundo/hierarquia dos dragões de Oriesên.md\|hierarquia dos dragões de Oriesên]]           | hierarquia, nobreza                                                     | cultura    |
+| [[Projetos/1. Oriesên/mundo/Grande Aliança.md\|Grande Aliança]]                                                 | organização                                                             | cultura    |
+| [[Projetos/1. Oriesên/mundo/Pequena Aliança.md\|Pequena Aliança]]                                               | organização                                                             | cultura    |
+| [[Projetos/1. Oriesên/mundo/ritos de maioridade de Oriesên.md\|ritos de maioridade de Oriesên]]                 | ritos de passagem                                                       | cultura    |
+| [[Projetos/1. Oriesên/mundo/Guardiões dos Cristais.md\|Guardiões dos Cristais]]                                 | título                                                                  | cultura    |
+| [[Projetos/1. Oriesên/mundo/Anéis de Oriesên.md\|Anéis de Oriesên]]                                             | astronomia                                                              | estrutural |
+| [[Projetos/1. Oriesên/mundo/magia de Oriesên.md\|magia de Oriesên]]                                             | magia                                                                   | estrutural |
+| [[Projetos/1. Oriesên/mundo/origem do universo de Oriesên.md\|origem do universo de Oriesên]]                   | origens                                                                 | estrutural |
+| [[Projetos/1. Oriesên/mundo/história de Thorian.md\|história de Thorian]]                                       | [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian.md\|Thorian]] | história   |
+| [[Projetos/1. Oriesên/mundo/Batalha das Montanhas Repentinas.md\|Batalha das Montanhas Repentinas]]             | guerra                                                                  | história   |
+| [[Ideias/nomes soltos.md\|nomes soltos]]                                                                        | nomes                                                                   | lista      |
+| [[Ideias/MBTI de personagens.md\|MBTI de personagens]]                                                          | personalidade                                                           | lista      |
+| [[Projetos/1. Oriesên/mundo/Cristal de Primescência.md\|Cristal de Primescência]]                               | cristal mágico                                                          | objeto     |
+| [[Projetos/1. Oriesên/mundo/Alquion.md\|Alquion]]                                                               | cristal mágico sagrado                                                  | objeto     |
+| [[Projetos/1. Oriesên/mundo/Cristal do Fogo.md\|Cristal do Fogo]]                                               | cristal mágico sagrado                                                  | objeto     |
+| [[Projetos/1. Oriesên/mundo/Golmion.md\|Golmion]]                                                               | cristal mágico sagrado                                                  | objeto     |
+| [[Projetos/1. Oriesên/mundo/Rokarion.md\|Rokarion]]                                                             | cristal mágico sagrado                                                  | objeto     |
+| [[Projetos/1. Oriesên/mundo/Cristais Mágicos de Oriesên.md\|Cristais Mágicos de Oriesên]]                       | cristais mágicos sagrados                                               | objetos    |
+
+
+
+## Cenas
+| arquivo                                                                                                                                | ponto                              | personagem                                                                                                                                                                                                                        | mundo                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Projetos/1. Oriesên/cena/Dilon casmurro.md\|Dilon casmurro]]                                                                         | AA 01                              | <ul><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li><li>[[Projetos/1. Oriesên/personagem/Isatore.md\\|Isatore]]</li></ul>                                                                       | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/Seline explica o passado a Ayú.md\|Seline explica o passado a Ayú]]                                         | AA 02                              | <ul><li>[[Projetos/1. Oriesên/personagem/Ayú do'Keltwan.md\\|Ayú do'Keltwan]]</li><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li></ul>                                                           | [[Projetos/1. Oriesên/mundo/magia de Oriesên.md\|magia de Oriesên]]                                                                                                                                                                            |
+| [[Projetos/1. Oriesên/equinócio de primavera.md\|equinócio de primavera]]                                                              | em qual ponto da estrutura da obra | \-                                                                                                                                                                                                                                | coisas importantes do mundo                                                                                                                                                                                                                    |
+| [[Projetos/1. Oriesên/cena/Lis vê os anéis de Oriesên.md\|Lis vê os anéis de Oriesên]]                                                 | PVV 1                              | [[Projetos/1. Oriesên/personagem/Lis Heningwe.md\|Lis Heningwe]]                                                                                                                                                                  | [[Projetos/1. Oriesên/mundo/Anéis de Oriesên.md\|Anéis de Oriesên]]                                                                                                                                                                            |
+| [[Projetos/1. Oriesên/cena/tradução do livro de Sonner.md\|tradução do livro de Sonner]]                                               | PVV 2.04, PVV 4.11                 | <ul><li>[[Projetos/1. Oriesên/personagem/Lis Heningwe.md\\|Lis Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/dragoa.md\\|dragoa]]</li></ul> | <ul><li>[[Projetos/1. Oriesên/livro de Sonner.md\\|livro de Sonner]]</li><li>[[Projetos/1. Oriesên/mundo/magia de Oriesên.md\\|magia de Oriesên]]</li></ul>                                                                                    |
+| [[Projetos/1. Oriesên/cena/quando Lis fica doente.md\|quando Lis fica doente]]                                                         | PVV 2.08                           | <ul><li>[[Projetos/1. Oriesên/personagem/Lis Heningwe.md\\|Lis Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li></ul>                                                               | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/Gilfor se despede de Seline.md\|Gilfor se despede de Seline]]                                               | PVV 2.25                           | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Gilfor.md\\|Gilfor]]</li></ul>                                                                           | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/Seline e Dilon começam a se entender.md\|Seline e Dilon começam a se entender]]                             | PVV 3                              | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                       | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/foreshadow do veneno de Dragão Negro.md\|foreshadow do veneno de Dragão Negro]]                             | PVV 3.04                           | [[Projetos/1. Oriesên/personagem/elfo de Elendorin.md\|elfo de Elendorin]]                                                                                                                                                        | [[Projetos/1. Oriesên/mundo/Pequena Aliança.md\|Pequena Aliança]]                                                                                                                                                                              |
+| [[Projetos/1. Oriesên/cena/Seline e Dilon depois da emboscada no desfiladeiro.md\|Seline e Dilon depois da emboscada no desfiladeiro]] | PVV 3.05                           | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                       | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/a romã da sabedoria de Torôndier.md\|a romã da sabedoria de Torôndier]]                                     | PVV 3.09                           | <ul><li>[[Projetos/1. Oriesên/personagem/Torôndier.md\\|Torôndier]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                                   | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/tem que chegar amanteigado.md\|tem que chegar amanteigado]]                                                 | PVV 3.10                           | <ul><li>[[Projetos/1. Oriesên/personagem/Hérsfio.md\\|Hérsfio]]</li><li>[[Projetos/1. Oriesên/personagem/Joara.md\\|Joara]]</li></ul>                                                                                             | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/Seline e a dragoa.md\|Seline e a dragoa]]                                                                   | PVV 4.10                           | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/dragoa.md\\|dragoa]]</li></ul>                                                                           | <ul><li>[[Projetos/1. Oriesên/mundo/Pequena Aliança.md\\|Pequena Aliança]]</li><li>[[Projetos/1. Oriesên/conhecimento da Lis.md\\|conhecimento da Lis]]</li><li>[[Projetos/1. Oriesên/mundo/magia de Oriesên.md\\|magia de Oriesên]]</li></ul> |
+| [[Projetos/1. Oriesên/cena/Ruome entra para a Pequena Aliança.md\|Ruome entra para a Pequena Aliança]]                                 | PVV 4.14                           | <ul><li>[[Projetos/1. Oriesên/personagem/Ruome Jilash.md\\|Ruome Jilash]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                             | [[Projetos/1. Oriesên/mundo/Pequena Aliança.md\|Pequena Aliança]]                                                                                                                                                                              |
+| [[Projetos/1. Oriesên/cena/Seline e Dilon depois do primeiro treino.md\|Seline e Dilon depois do primeiro treino]]                     | PVV 4.15+                          | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                       | \-                                                                                                                                                                                                                                             |
+| [[Projetos/1. Oriesên/cena/Seline e Dilon depois do segundo treino.md\|Seline e Dilon depois do segundo treino]]                       | PVV 4.16+                          | <ul><li>[[Projetos/1. Oriesên/personagem/Seline Heningwe.md\\|Seline Heningwe]]</li><li>[[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\\|Dilon do'Keltwan]]</li></ul>                                                       | \-                                                                                                                                                                                                                                             |
+
+
+
+---
+###### Links Internos
+[[lista|lista]]
