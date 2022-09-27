@@ -4,6 +4,8 @@
 
 
 # Panteão de Oriesên
+
+###### Descrição
 Acredita-se que os deuses moram nos anéis e astros que circundam o planeta. 
 
 A [[lua de prata|lua de prata]] abriga os [[Projetos/1. Oriesên/mundo/Panteão de Oriesên#Deuses Mundanos|deuses mundanos]] e as [[Projetos/1. Oriesên/mundo/Panteão de Oriesên#Deusas Pilares|deusas pilares]], pois ela tem um ponto fixo na borda dos arcos, e por isso simboliza estabilidade e constância.
@@ -18,7 +20,7 @@ Os [[Projetos/1. Oriesên/mundo/Panteão de Oriesên#Deuses Caídos|deuses caíd
 
 
 ---
-## Titãs
+## Titãs de Oriesên
 bom
 mau
 neutro
@@ -50,6 +52,8 @@ neutro
 
 ### Deuses Mundanos
 
+#### Marek
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -61,9 +65,12 @@ neutro
 
 
 # Marek
+
+###### Descrição
 **domínio**:: [[fogo|fogo]]
 **símbolo**:: [[chamas|chamas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Heris|Heris]]
+
 
 ###### Cenas
 
@@ -72,6 +79,8 @@ neutro
 </div></div>
 
 
+
+#### Hoderant
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -84,9 +93,12 @@ neutro
 
 
 # Hoderant
+
+###### Descrição
 **domínio**:: [[terra|terra]]
 **símbolo**:: [[rochas|rochas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Goleim|Goleim]]
+
 
 ###### Cenas
 
@@ -95,6 +107,8 @@ neutro
 </div></div>
 
 
+
+#### Olassu
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -107,9 +121,12 @@ neutro
 
 
 # Olassu
+
+###### Descrição
 **domínio**:: [[vento|vento]]
 **símbolo**:: [[nuvens|nuvens]] e [[fumaça|fumaça]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Roókar|Roókar]]
+
 
 ###### Cenas
 
@@ -118,6 +135,8 @@ neutro
 </div></div>
 
 
+
+#### Eirol
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -130,9 +149,12 @@ neutro
 
 
 # Eirol
+
+###### Descrição
 **domínio**:: [[água|água]]
 **símbolo**:: [[ondas|ondas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Abaie|Abaie]]
+
 
 ###### Cenas
 
@@ -143,6 +165,8 @@ neutro
 
 
 ### Deusas Pilares
+
+#### Aki
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -155,9 +179,12 @@ neutro
 
 
 # Aki
+
+###### Descrição
 **domínio**:: [[natureza|natureza]]
 **símbolo**:: flores ([[magnólias|magnólias]]), [[pássaros|pássaros]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -166,6 +193,8 @@ neutro
 </div></div>
 
 
+
+#### Lanat
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -178,9 +207,12 @@ neutro
 
 
 # Lanat
+
+###### Descrição
 **domínio**:: [[conhecimento|conhecimento]]
 **símbolo**:: [[livro|livro]] e [[vela|vela]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Ogmia|Ogmia]]
+
 
 ###### Cenas
 
@@ -189,6 +221,8 @@ neutro
 </div></div>
 
 
+
+#### Vahlena
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -201,9 +235,12 @@ neutro
 
 
 # Vahlena
+
+###### Descrição
 **domínio**:: [[magia|magia]]
 **símbolo**:: [[cetro|cetro]] longo e [[raio|raio]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -214,6 +251,8 @@ neutro
 
 
 ### Deuses da Civilização
+
+#### Bonni
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -226,9 +265,12 @@ neutro
 
 
 # Bonni
+
+###### Descrição
 **domínio**:: [[vida|vida]], [[dia|dia]] e [[luz|luz]]
 **símbolo**:: [[lua|lua]], [[lua de prata|lua de prata]] e [[sapo|sapo]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -237,6 +279,8 @@ neutro
 </div></div>
 
 
+
+#### Yanni
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -249,9 +293,12 @@ neutro
 
 
 # Yanni
+
+###### Descrição
 **domínio**:: [[morte|morte]], [[noite|noite]] e [[escuridão|escuridão]]
 **símbolo**:: [[lua|lua]], [[lua de sangue|lua de sangue]] e [[chacal|chacal]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -260,6 +307,8 @@ neutro
 </div></div>
 
 
+
+#### Selkor
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -272,9 +321,12 @@ neutro
 
 
 # Selkor
+
+###### Descrição
 **domínio**:: [[guerra|guerra]] e [[caça|caça]]
 **símbolo**:: [[lança|lança]] e [[arco|arco]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -283,6 +335,8 @@ neutro
 </div></div>
 
 
+
+#### Cyris
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -295,9 +349,12 @@ neutro
 
 
 # Cyris
+
+###### Descrição
 **domínio**:: [[paz|paz]], [[prosperidade|prosperidade]] e [[saúde|saúde]]
 **símbolo**:: [[cálice|cálice]], [[moedas|moedas]] e [[serpente|serpente]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -306,6 +363,8 @@ neutro
 </div></div>
 
 
+
+#### Zarus
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -318,9 +377,12 @@ neutro
 
 
 # Zarus
+
+###### Descrição
 **domínio**:: [[ordem|ordem]] e [[justiça|justiça]]
 **símbolo**:: [[balança|balança]] e [[espada|espada]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -329,6 +391,8 @@ neutro
 </div></div>
 
 
+
+#### Jinn
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -341,9 +405,12 @@ neutro
 
 
 # Jinn
+
+###### Descrição
 **domínio**:: [[amor|amor]] e [[fertilidade|fertilidade]]
 **símbolo**:: [[cornucópia|cornucópia]] e [[lebres|lebres]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -352,6 +419,8 @@ neutro
 </div></div>
 
 
+
+#### Airondel
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -364,9 +433,12 @@ neutro
 
 
 # Airondel
+
+###### Descrição
 **domínio**:: [[sonhos|sonhos]], [[sorte|sorte]] e [[azar|azar]]
 **símbolo**:: [[máscara|máscara]] inumana metade sorridente, metade triste
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -375,6 +447,8 @@ neutro
 </div></div>
 
 
+
+#### Delliandara
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -387,9 +461,12 @@ neutro
 
 
 # Delliandara
+
+###### Descrição
 **domínio**:: [[artes|artes]] e [[beleza|beleza]]
 **símbolo**:: [[espelho|espelho]] e [[pavão|pavão]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -400,6 +477,8 @@ neutro
 
 
 ### Deuses Caídos
+
+#### Imneroy
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -412,9 +491,12 @@ neutro
 
 
 # Imneroy
+
+###### Descrição
 **domínio**:: [[sabedoria|sabedoria]], [[tempo|tempo]] e [[equilíbrio|equilíbrio]]
 **símbolo**:: [[sino|sino]] e [[tartaruga|tartaruga]]/[[grou|grou]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -423,6 +505,8 @@ neutro
 </div></div>
 
 
+
+#### Fydia
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -435,9 +519,12 @@ neutro
 
 
 # Fydia
+
+###### Descrição
 **domínio**:: [[reencarnação|reencarnação]]
 **símbolo**:: [[sol|sol]]
 **avatar**:: 
+
 
 ###### Cenas
 
@@ -446,6 +533,8 @@ neutro
 </div></div>
 
 
+
+#### Daagohr
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -458,9 +547,12 @@ neutro
 
 
 # Daagohr
+
+###### Descrição
 **domínio**:: [[forja|forja]] e [[criação|criação]]
 **símbolo**:: [[martelo|martelo]]
 **avatar**:: 
+
 
 ###### Cenas
 
