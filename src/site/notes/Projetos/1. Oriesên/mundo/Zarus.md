@@ -4,9 +4,12 @@
 
 
 # Zarus
+
+###### Descrição
 **domínio**:: [[ordem|ordem]] e [[justiça|justiça]]
 **símbolo**:: [[balança|balança]] e [[espada|espada]]
 **avatar**:: 
+
 
 ###### Cenas
 
