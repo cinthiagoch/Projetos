@@ -4,9 +4,12 @@
 
 
 # Aki
+
+###### Descrição
 **domínio**:: [[natureza|natureza]]
 **símbolo**:: flores ([[magnólias|magnólias]]), [[pássaros|pássaros]]
 **avatar**:: 
+
 
 ###### Cenas
 
