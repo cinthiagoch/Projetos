@@ -4,9 +4,12 @@
 
 
 # Fydia
+
+###### Descrição
 **domínio**:: [[reencarnação|reencarnação]]
 **símbolo**:: [[sol|sol]]
 **avatar**:: 
+
 
 ###### Cenas
 
