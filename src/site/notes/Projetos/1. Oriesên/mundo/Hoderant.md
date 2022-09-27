@@ -4,9 +4,12 @@
 
 
 # Hoderant
+
+###### Descrição
 **domínio**:: [[terra|terra]]
 **símbolo**:: [[rochas|rochas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Goleim|Goleim]]
+
 
 ###### Cenas
 
