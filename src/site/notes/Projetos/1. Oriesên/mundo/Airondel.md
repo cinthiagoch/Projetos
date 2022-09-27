@@ -4,9 +4,12 @@
 
 
 # Airondel
+
+###### Descrição
 **domínio**:: [[sonhos|sonhos]], [[sorte|sorte]] e [[azar|azar]]
 **símbolo**:: [[máscara|máscara]] inumana metade sorridente, metade triste
 **avatar**:: 
+
 
 ###### Cenas
 
