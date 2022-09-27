@@ -4,9 +4,12 @@
 
 
 # Daagohr
+
+###### Descrição
 **domínio**:: [[forja|forja]] e [[criação|criação]]
 **símbolo**:: [[martelo|martelo]]
 **avatar**:: 
+
 
 ###### Cenas
 
