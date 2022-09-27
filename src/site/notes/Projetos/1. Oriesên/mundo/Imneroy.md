@@ -4,9 +4,12 @@
 
 
 # Imneroy
+
+###### Descrição
 **domínio**:: [[sabedoria|sabedoria]], [[tempo|tempo]] e [[equilíbrio|equilíbrio]]
 **símbolo**:: [[sino|sino]] e [[tartaruga|tartaruga]]/[[grou|grou]]
 **avatar**:: 
+
 
 ###### Cenas
 
