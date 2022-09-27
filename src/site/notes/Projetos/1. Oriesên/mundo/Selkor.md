@@ -4,9 +4,12 @@
 
 
 # Selkor
+
+###### Descrição
 **domínio**:: [[guerra|guerra]] e [[caça|caça]]
 **símbolo**:: [[lança|lança]] e [[arco|arco]]
 **avatar**:: 
+
 
 ###### Cenas
 
