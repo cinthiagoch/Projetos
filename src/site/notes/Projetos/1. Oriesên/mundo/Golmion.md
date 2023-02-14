@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/golmion/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/golmion/"}
 ---
 
 
@@ -20,7 +20,7 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Golmion|Golmion]] pelos antigos elfos de
 ## Guardiões do Golmion
 - [[Projetos/1. Oriesên/primeiro Guardião do Golmion|primeiro Guardião do Golmion]]
 ...
-- [[Projetos/1. Oriesên/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
+- [[Projetos/1. Oriesên/personagem/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
 ...
 - [[Projetos/1. Oriesên/Jorgan|Jorgan]]
 - [[Projetos/1. Oriesên/personagem/Sícereo|Sícereo]]
