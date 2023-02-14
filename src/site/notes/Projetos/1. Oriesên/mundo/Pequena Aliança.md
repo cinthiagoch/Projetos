@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/pequena-alianca/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/pequena-alianca/"}
 ---
 
 
@@ -8,7 +8,7 @@
 **tipo**:: cultura
 **detalhe**:: organização
 
-Organização idealizada pela [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]] e composta pelos representantes individuais dos reinos envolvidos na [[Projetos/1. Oriesên/mundo/Grande Aliança|Grande Aliança]] contra o [[Projetos/1. Oriesên/local/lugar político/peso 1/Império Hailatomano|Império Hailatomano]].
+Organização idealizada pela [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]] e composta pelos representantes individuais dos reinos envolvidos na [[Projetos/1. Oriesên/mundo/Grande Aliança|Grande Aliança]] contra o [[Projetos/1. Oriesên/local/lugar político/peso 1/Império Hailatomano|Império Hailatomano]].
 
 Sua função era proteger os [[Projetos/1. Oriesên/mundo/Guardiões dos Cristais|Guardiões dos Cristais]] para que pudessem minar os poderes de [[Projetos/1. Oriesên/personagem/Neiron|Neiron]] antes de armar a guerra.
 
