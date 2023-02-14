@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-1/oceano-indigo/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-1/oceano-indigo/"}
 ---
 
 
