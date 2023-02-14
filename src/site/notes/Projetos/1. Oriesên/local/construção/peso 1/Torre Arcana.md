@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/construcao/peso-1/torre-arcana/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/construcao/peso-1/torre-arcana/"}
 ---
+
 
 
 # Torre Arcana
@@ -16,8 +17,3 @@ Começou com um castelo, mas foi aumentando em estruturas até formar uma "cidad
 
 ###### Cenas
 
-
-
----
-###### Links Internos
-[[Projetos/1. Oriesên/mundo/magia de Oriesên|magia de Oriesên]]
