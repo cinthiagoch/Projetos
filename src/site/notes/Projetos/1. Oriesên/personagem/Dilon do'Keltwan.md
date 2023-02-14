@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/dilon-do-keltwan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/dilon-do-keltwan/"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 ###### Música
 - essência: [[Red Hot Chili Peppers|Red Hot Chili Peppers]] - [Easily](https://open.spotify.com/track/3DmOWG8OD9eR12180fmJqf?si=771710f1f2594940)
-- fachada: [[R.E.M.|R.E.M.]] - [Final Straw](https://open.spotify.com/track/2Rjs0YF2ByqFUGRhzwBL3J?si=bc47f0ca0fed4a40)
+- conflito: [[R.E.M.|R.E.M.]] - [Final Straw](https://open.spotify.com/track/2Rjs0YF2ByqFUGRhzwBL3J?si=bc47f0ca0fed4a40)
 - inspiração: [[Sonata Arctica|Sonata Arctica]] - [Broken](https://open.spotify.com/track/4eWm1KjoqxAb1mQw60QFjg?si=61176507061b409d)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3DmOWG8OD9eR12180fmJqf?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Rjs0YF2ByqFUGRhzwBL3J?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4eWm1KjoqxAb1mQw60QFjg?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -52,7 +52,7 @@ E isso explica um pouco a sua relutância em casar depois que [[Projetos/1. Orie
 
 **afetos**:: [[Projetos/1. Oriesên/pai da Isatore|pai da Isatore]] (tio), [[Projetos/1. Oriesên/mãe da Isatore|mãe da Isatore]] (tia), [[Projetos/1. Oriesên/personagem/Isatore|Isatore]] (prima), [[Projetos/1. Oriesên/personagem/escudeiro do Dilon|escudeiro do Dilon]] (amigo e amante), [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]], [[Projetos/1. Oriesên/personagem/Tessa|Tessa]] ("sobrinha", prima 2ºg), 2 "sobrinhos" (primos 2ºg)
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]]
 
 **desafetos**:: [[Projetos/1. Oriesên/madrasta do Dilon|madrasta do Dilon]] (madrasta) e a família dela
 
