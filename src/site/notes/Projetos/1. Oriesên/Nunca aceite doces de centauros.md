@@ -1,42 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/nunca-aceite-doces-de-centauros/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/nunca-aceite-doces-de-centauros/"}
 ---
 
 
-# Nunca aceite doces de centauros
-**tipo**:: biologia, cultura, curiosidade, objeto, tema
-**detalhe**:: arma, jóia, arte, etc
 
-(descrição)
+# Nunca aceite doces de centauros.
+
+###### Descrição
+Os [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Centauros Hamadríades|centauros]] gostam de fazer vários tipos de mel, especialmente os de plantas com propriedades específicas. Alguns desses são feitos com [[Explorar/Mad Honey|Mad Honey]] e renderam aos [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Centauros Hamadríades|centauros]] esse ditado negativo entre as outras raças de Oriesên.
 
 
 ###### Referências
-- coisas do mundo real
-- lista simples
+- [[Explorar/Mad Honey|Mad Honey]]
 
 
 ###### Cenas
 
-
-
-###### Música
-- artista (link interno) - música (link externo)
-
-Spotify embed track (compacto, 50%, colorido)
-***- ou -***
-Spotify embed playlist (100%, preto)
-
-
----
-## Outras características
-
-
----
-###### Links Externos
-- lista espaçada
-
-- lista espaçada
-
-
-###### Links Internos
-[[Projetos/1. Oriesên/mundo/ditados de Oriesên|ditados de Oriesên]]
