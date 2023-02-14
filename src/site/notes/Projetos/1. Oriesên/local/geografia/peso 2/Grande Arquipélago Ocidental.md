@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-2/grande-arquipelago-ocidental/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-2/grande-arquipelago-ocidental/"}
 ---
 
 
