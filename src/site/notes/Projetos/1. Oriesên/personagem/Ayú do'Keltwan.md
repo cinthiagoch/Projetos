@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/ayu-do-keltwan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/ayu-do-keltwan/"}
 ---
 
 
@@ -34,7 +34,7 @@ Intercalar essa ideia melhor com a revelação de que [[Projetos/1. Oriesên/per
 
 **família**:: [[Projetos/1. Oriesên/personagem/Dilon do'Keltwan|Dilon do'Keltwan]] (pai)
 
-**afetos**:: [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]], [[Projetos/1. Oriesên/personagem/Tessa|Tessa]], [[Projetos/1. Oriesên/personagem/elfinho|elfinho]], [[Projetos/1. Oriesên/personagem/cavaleiro da Ayú|cavaleiro da Ayú]]
+**afetos**:: [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]], [[Projetos/1. Oriesên/personagem/Tessa|Tessa]], [[Projetos/1. Oriesên/personagem/elfinho|elfinho]] , [[Projetos/1. Oriesên/personagem/cavaleiro da Ayú|cavaleiro da Ayú]]
 
 **alianças**:: família [[do'Keltwan|do'Keltwan]], [[Projetos/1. Oriesên/personagem/Ruome Jilash|Ruome Jilash]]
 
@@ -48,7 +48,7 @@ Intercalar essa ideia melhor com a revelação de que [[Projetos/1. Oriesên/per
 **rosto**:: 
 **corpo**:: 
 
-**detalhes**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 100-96 Elfo 0-4|raças de Oriesên#Humano 100-96 Elfo 0-4]]
+**detalhes**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 100-96 Elfo 0-4|espécies humanóides de Oriesên#Humano 100-96 Elfo 0-4]]
 
 **acessórios**:: 
 **personalidade**:: 
