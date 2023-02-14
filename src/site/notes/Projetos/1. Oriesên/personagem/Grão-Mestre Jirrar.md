@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/grao-mestre-jirrar/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/grao-mestre-jirrar/"}
 ---
 
 
 # Grão-Mestre Jirrar
 **tipo**:: humano
-**detalhe**:: Grão-Mestre da [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**detalhe**:: Grão-Mestre da [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 **mbti**:: 
 
 
@@ -29,9 +29,9 @@
 **linhagem**:: 
 **família**:: 
 
-**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor|Gilfor]], [[Projetos/1. Oriesên/mãe do Klaur|mãe do Klaur]], [[Projetos/1. Oriesên/personagem/Joara|Joara]], [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]], [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]]
+**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor Eldaron|Gilfor Eldaron]], [[Projetos/1. Oriesên/mãe do Klaur|mãe do Klaur]], [[Projetos/1. Oriesên/personagem/Joara|Joara]], [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]], [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]]
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Grande Aliança|Grande Aliança]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]], [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Grande Aliança|Grande Aliança]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]], [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]]
 
 **desafetos**:: [[Projetos/1. Oriesên/personagem/Neiron|Neiron]]
 
