@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/aneis-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/aneis-de-oriesen/"}
 ---
+
 
 
 # Anéis de Oriesên
@@ -13,10 +14,3 @@ Dois anéis visíveis que envolvem o planeta. O interno é mais amarelado, e o e
 ###### Cenas
 - [[Projetos/1. Oriesên/cena/Lis vê os anéis de Oriesên|Lis vê os anéis de Oriesên]]
 
-
-
----
-###### Links Internos
-[[astronomia|astronomia]]
-[[anéis planetários|anéis planetários]]
-[[Projetos/1. Oriesên/Oriesên|Oriesên]]
