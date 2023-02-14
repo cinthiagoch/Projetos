@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-1/planalto-meridional/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-1/planalto-meridional/"}
 ---
 
 
@@ -33,15 +33,7 @@ Um dos seus pontos de parada é no [[Projetos/1. Oriesên/local/geografia/peso 1
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Oráculo de Ogmia
 
 ###### Descrição
 **tipo**:: templo
@@ -56,16 +48,6 @@ Ele foi criado para coletar informações. Todos os que se consultam com ele con
 Também é necessário voltar para o [[Projetos/1. Oriesên/inferno de Oriesên|inferno]] toda vez que é consultado para "descarregar" seu conhecimento para os demônios, que se atualizam e desenvolvem sua própria tecnologia e magia sugando informações do mundo dessa forma.
 
 
-###### Cenas
-
-
-
----
-## Itinerário
-- [[Projetos/1. Oriesên/inferno de Oriesên|inferno de Oriesên]]
-- ...
-- [[Projetos/1. Oriesên/local/geografia/peso 1/Planalto Meridional|Planalto Meridional]]
-- ...
 
 </div></div>
 
@@ -76,11 +58,7 @@ Também é necessário voltar para o [[Projetos/1. Oriesên/inferno de Oriesên|
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
