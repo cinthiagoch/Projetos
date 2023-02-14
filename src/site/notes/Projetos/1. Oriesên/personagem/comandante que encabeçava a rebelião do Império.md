@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/comandante-que-encabecava-a-rebeliao-do-imperio/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/comandante-que-encabecava-a-rebeliao-do-imperio/"}
 ---
 
 
