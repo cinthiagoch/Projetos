@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/guillia/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/guillia/"}
 ---
 
 
@@ -42,6 +42,8 @@ A maioria das pessoas a chama de Gui, mas [[Projetos/1. Oriesên/Szell|Szell]] e
 ## Vida
 **nascimento**:: 2421 EC
 **morte**:: 
+
+***Adaptar tudo para fazer com que Neiron também esteja usando Rasmink como barganha para que Gullia colabore em descobrir quem é o infiltrado da rebelião no alto escalão. Isso inclui deixar que os oficiais que a desejam a tenham sem os machucar. (As dançarinas mais especiais são apenas de Neiron, as outras ele deixa os oficiais usarem.) Isso vai dar mais impacto quando ela decidir não entregar o [[Projetos/1. Oriesên/personagem/comandante que encabeçava a rebelião do Império|comandante que encabeçava a rebelião do Império]] depois de tudo o que eles passam, e quando ele se sacrifica para que ela e a irmã fiquem a salvo.***
 
 
 ### Parte inspirada pela música "Bleeding Out"
@@ -94,7 +96,7 @@ Depois disso, Guillia e Szell botam o plano de invasão do palácio em prática.
 
 **acessórios**:: Gargantilha de fita preta, pingente redondo de prata com pedra preta brilhante (mielite/oricalco) descentralizada, parecendo uma lua. Bastão do mesmo mineral, 15 a 20cm de comprimento, 3cm de largura; arma que estica, encolhe e muda levemente de formato.
 
-**personalidade**:: "boca suja mas engraçada" que nem [[Dead Pool|Dead Pool]]. Mais piadas do que palavrão, tipo o [[Eros Chagas|Eros]].
+**personalidade**:: "boca suja mas engraçada" que nem [[Dead Pool|Dead Pool]]. Mais piadas do que palavrão, tipo o [[Pessoal/Eros Chagas|Eros]].
 
 **gostos**:: 
 **habilidades**:: 
