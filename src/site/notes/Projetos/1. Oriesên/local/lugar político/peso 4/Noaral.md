@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/lugar-politico/peso-4/noaral/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/lugar-politico/peso-4/noaral/"}
 ---
 
 
