@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/construcao/peso-5/castelo-de-ahrkaren/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/construcao/peso-5/castelo-de-ahrkaren/"}
 ---
+
 
 # castelo de Ahrkaren
 
