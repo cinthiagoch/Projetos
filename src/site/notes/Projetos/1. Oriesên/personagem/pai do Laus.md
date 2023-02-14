@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/pai-do-laus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/pai-do-laus/"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 **afetos**:: 
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
@@ -36,10 +36,10 @@
 **nomes**:: 
 **olhos**:: 
 **cabelo**:: 
-**rosto**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 80-61 Elfo 20-39|orelhas pontudas]]
+**rosto**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 80-61 Elfo 20-39|orelhas pontudas]]
 **corpo**:: 
 
-**detalhes**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 80-61 Elfo 20-39|sangue fino]]
+**detalhes**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 80-61 Elfo 20-39|sangue fino]]
 
 **acessórios**:: [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]
 
