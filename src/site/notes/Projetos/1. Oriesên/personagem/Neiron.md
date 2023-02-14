@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/neiron/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/neiron/"}
 ---
 
 
@@ -37,7 +37,7 @@
 
 **alianças**:: [[Projetos/1. Oriesên/demônios de Oriesên|demônios de Oriesên]]
 
-**desafetos**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**desafetos**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 
 ## Descrição
