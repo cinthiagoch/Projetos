@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/era-dos-cristais/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/era-dos-cristais/"}
 ---
+
 
 
 # Era dos Cristais
@@ -23,9 +24,3 @@ Era que começa com o susposto surgimento dos [[Projetos/1. Oriesên/mundo/Crist
 
 ### Ano 2435
 Os [[Projetos/1. Oriesên/mundo/Cristais Mágicos de Oriesên|Cristais Mágicos de Oriesên]] (com exeção do [[Projetos/1. Oriesên/mundo/Cristal de Primescência|Cristal de Primescência]]) perdem a sua conexão hereditária com seus [[Projetos/1. Oriesên/mundo/Guardiões dos Cristais|Guardiões]].
-
-
----
-###### Links Internos
-[[calendário|calendário]]
-[[tempo|tempo]]
