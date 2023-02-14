@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/klaur/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/klaur/"}
 ---
 
 
 # Klaur
 **tipo**:: tritão
-**detalhe**:: general, Guardião do [[Projetos/1. Oriesên/mundo/Alquion|Alquion]]
+**detalhe**:: general, Guardião do [[Projetos/1. Oriesên/mundo/Abaion|Abaion]]
 **mbti**:: 
 
 ###### Cenas
@@ -23,7 +23,7 @@
 **linhagem**:: 
 **família**:: [[Projetos/1. Oriesên/mãe do Klaur|mãe do Klaur]] (mãe), [[Projetos/1. Oriesên/Krill|Krill]] (filho mais velho), vários outros filhos e filhas
 **afetos**:: 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]], [[Projetos/1. Oriesên/mundo/Pequena Aliança|Pequena Aliança]]
 **desafetos**:: 
 
 
@@ -34,7 +34,7 @@
 **rosto**:: 
 **corpo**:: 
 **detalhes**:: 
-**acessórios**:: broche com o [[Projetos/1. Oriesên/mundo/Alquion|Alquion]]
+**acessórios**:: broche com o [[Projetos/1. Oriesên/mundo/Abaion|Abaion]]
 **personalidade**:: 
 **gostos**:: 
 **habilidades**:: 
