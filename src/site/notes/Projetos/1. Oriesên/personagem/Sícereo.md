@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/sicereo/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/sicereo/"}
 ---
 
 
@@ -26,7 +26,7 @@
 
 **afetos**:: [[Projetos/1. Oriesên/Jorgan|Jorgan]], [[Projetos/1. Oriesên/personagem/Joara|Joara]] (sobrinha)
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
