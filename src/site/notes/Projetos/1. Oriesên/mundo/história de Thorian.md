@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/historia-de-thorian/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/historia-de-thorian/"}
 ---
+
 
 
 # história de Thorian
@@ -26,13 +27,8 @@ Originalmente eram príncipes de [[Projetos/1. Oriesên/local/lugar político/pe
 #### Membros
 | arquivo                                                                        | nomes | nascimento | morte   |
 | ------------------------------------------------------------------------------ | ----- | ---------- | ------- |
-| [[Projetos/1. Oriesên/personagem/Dilberon do'Keltwan.md\|Dilberon do'Keltwan]] | \-    | 2381 EC    | 2435 EC |
-| [[Projetos/1. Oriesên/personagem/Ayulana do'Keltwan.md\|Ayulana do'Keltwan]]   | \-    | 2389 EC    | 2421 EC |
-| [[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\|Dilon do'Keltwan]]       | \-    | 2410 EC    | \-      |
 | [[Projetos/1. Oriesên/personagem/Ayú do'Keltwan.md\|Ayú do'Keltwan]]           | \-    | 4 ET       | \-      |
+| [[Projetos/1. Oriesên/personagem/Dilon do'Keltwan.md\|Dilon do'Keltwan]]       | \-    | 2410 EC    | \-      |
+| [[Projetos/1. Oriesên/personagem/Ayulana do'Keltwan.md\|Ayulana do'Keltwan]]   | \-    | 2389 EC    | 2421 EC |
+| [[Projetos/1. Oriesên/personagem/Dilberon do'Keltwan.md\|Dilberon do'Keltwan]] | \-    | 2381 EC    | 2435 EC |
 
-
-
----
-###### Links Internos
-[[história|história]]
