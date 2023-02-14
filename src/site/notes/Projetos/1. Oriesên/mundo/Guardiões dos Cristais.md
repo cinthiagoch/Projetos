@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/guardioes-dos-cristais/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/guardioes-dos-cristais/"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 Título dado às pessoas ligadas magicamente a 4 dos 5 [[Projetos/1. Oriesên/mundo/Cristais Mágicos de Oriesên|Cristais Mágicos de Oriesên]].
 
-Lá pela segunda ou terceira geração, os Guardiões se aliaram à [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]].
+Lá pela segunda ou terceira geração, os Guardiões se aliaram à [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]].
 
 ###### Cenas
 
@@ -19,11 +19,7 @@ Lá pela segunda ou terceira geração, os Guardiões se aliaram à [[Projetos/1
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -54,32 +50,12 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Cristal do Fogo|Cristal do Fogo]] pelos 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-# Golmion
-**categoria**:: mundo
-**tipo**:: objeto
-**detalhe**:: cristal mágico sagrado
-
-O Cristal da Terra, também conhecido como o Coração de [[Projetos/1. Oriesên/personagem/Goleim|Goleim]]. Supostamente contem os poderes do avatar.
-
-Representa a matéria em forma sólida. Uma das manifestações da matéria na simulação do universo.
-
-Nomeado de [[Projetos/1. Oriesên/mundo/Golmion|Golmion]] pelos antigos elfos de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]]. Possuía outros nomes entre outros povos.
-
-###### Cenas
 
 
 ## Guardiões do Golmion
 - [[Projetos/1. Oriesên/primeiro Guardião do Golmion|primeiro Guardião do Golmion]]
 ...
-- [[Projetos/1. Oriesên/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
+- [[Projetos/1. Oriesên/personagem/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
 ...
 - [[Projetos/1. Oriesên/Jorgan|Jorgan]]
 - [[Projetos/1. Oriesên/personagem/Sícereo|Sícereo]]
@@ -91,27 +67,6 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Golmion|Golmion]] pelos antigos elfos de
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-# Rokarion
-**categoria**:: mundo
-**tipo**:: objeto
-**detalhe**:: cristal mágico sagrado
-
-O Cristal do Vento, também conhecido como o Coração de [[Projetos/1. Oriesên/personagem/Roókar|Roókar]]. Supostamente contem os poderes do avatar.
-
-Representa a matéria em forma gasosa. Uma das manifestações da matéria na simulação do universo.
-
-Nomeado de [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]] pelos antigos elfos de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]]. Possuía outros nomes entre outros povos.
-
-###### Cenas
 
 
 
@@ -130,27 +85,6 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]] pelos antigos elfos 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-# Alquion
-**categoria**:: mundo
-**tipo**:: objeto
-**detalhe**:: cristal mágico sagrado
-
-O Cristal da Água, também conhecido como o Coração de [[Projetos/1. Oriesên/personagem/Abaie|Abaie]]. Supostamente contem os poderes do avatar.
-
-Representa a matéria em forma líquida. Uma das manifestações da matéria na simulação do universo.
-
-Nomeado de [[Projetos/1. Oriesên/mundo/Alquion|Alquion]] pelos antigos elfos de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]]. Possuía outros nomes entre outros povos.
-
-###### Cenas
 
 
 
