@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/cristais-magicos-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/cristais-magicos-de-oriesen/"}
 ---
+
 
 
 # Cristais Mágicos de Oriesên
@@ -20,11 +21,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -49,11 +46,7 @@ O primeiro a encontrá-lo ainda não era um demônio, mas foi quem iniciou toda 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -84,11 +77,7 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Cristal do Fogo|Cristal do Fogo]] pelos 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -123,12 +112,6 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]] pelos antigos elfos 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
 
 
 # Alquion
@@ -140,17 +123,8 @@ O Cristal da Água, também conhecido como o Coração de [[Projetos/1. Oriesên
 
 Representa a matéria em forma líquida. Uma das manifestações da matéria na simulação do universo.
 
-Nomeado de [[Projetos/1. Oriesên/mundo/Alquion|Alquion]] pelos antigos elfos de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]]. Possuía outros nomes entre outros povos.
+Nomeado de [[Projetos/1. Oriesên/mundo/Abaion|Abaion]] pelos antigos elfos de [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]]. Possuía outros nomes entre outros povos.
 
-###### Cenas
-
-
-
-## Guardiões do Alquion
-- [[Projetos/1. Oriesên/primeiro Guardião do Alquion|primeiro Guardião do Alquion]]
-...
-- [[Projetos/1. Oriesên/mãe do Klaur|mãe do Klaur]]
-- [[Projetos/1. Oriesên/personagem/Klaur|Klaur]]
 
 </div></div>
 
@@ -158,11 +132,7 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Alquion|Alquion]] pelos antigos elfos de
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -183,7 +153,7 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Golmion|Golmion]] pelos antigos elfos de
 ## Guardiões do Golmion
 - [[Projetos/1. Oriesên/primeiro Guardião do Golmion|primeiro Guardião do Golmion]]
 ...
-- [[Projetos/1. Oriesên/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
+- [[Projetos/1. Oriesên/personagem/Guardião do Golmion da BMT|Guardião do Golmion da BMT]]
 ...
 - [[Projetos/1. Oriesên/Jorgan|Jorgan]]
 - [[Projetos/1. Oriesên/personagem/Sícereo|Sícereo]]
@@ -191,12 +161,3 @@ Nomeado de [[Projetos/1. Oriesên/mundo/Golmion|Golmion]] pelos antigos elfos de
 - [[Projetos/1. Oriesên/personagem/Joara|Joara]]
 
 </div></div>
-
-
-
----
-##### Links Internos
-[[Projetos/1. Oriesên/mundo/origem do universo de Oriesên|origem do universo de Oriesên]]
-[[Projetos/1. Oriesên/mundo/magia de Oriesên|magia de Oriesên]]
-[[teoria da simulação|teoria da simulação]]
-[[magia|magia]]
