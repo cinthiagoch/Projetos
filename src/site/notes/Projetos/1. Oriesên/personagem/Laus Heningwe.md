@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/laus-heningwe/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/laus-heningwe/"}
 ---
 
 
@@ -25,9 +25,9 @@
 
 **família**:: [[Projetos/1. Oriesên/personagem/pai do Laus|pai do Laus]] (pai), [[Projetos/1. Oriesên/personagem/mãe do Laus|mãe do Laus]] (mãe), [[Projetos/1. Oriesên/personagem/Merina Heningwe|Merina Heningwe]] (esposa), [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]] (filha), [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]] (filha)
 
-**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor|Gilfor]], [[Projetos/1. Oriesên/personagem/Joara|Joara]]
+**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor Eldaron|Gilfor Eldaron]], [[Projetos/1. Oriesên/personagem/Joara|Joara]]
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
@@ -37,11 +37,11 @@
 **olhos**:: 
 **cabelo**:: 
 
-**rosto**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 90-81 Elfo 10-19|orelhas pontudas]]
+**rosto**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 90-81 Elfo 10-19|orelhas pontudas]]
 
 **corpo**:: 
 
-**detalhes**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 90-81 Elfo 10-19|sangue fino]]
+**detalhes**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 90-81 Elfo 10-19|sangue fino]]
 
 **acessórios**:: [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]
 
