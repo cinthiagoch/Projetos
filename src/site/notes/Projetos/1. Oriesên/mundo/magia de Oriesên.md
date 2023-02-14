@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/magia-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/magia-de-oriesen/"}
 ---
+
 
 
 # magia de Oriesên
@@ -15,12 +16,3 @@ Fazer com que seja bons condutores de magia também, afinal, é um tipo de energ
 
 ###### Cenas
 
-
-
----
-##### Links Internos
-[[Projetos/1. Oriesên/mundo/Vahlena|Vahlena]]
-[[magia|magia]]
-[[alquimia|alquimia]]
-[[química|química]]
-[[metais|metais]]
