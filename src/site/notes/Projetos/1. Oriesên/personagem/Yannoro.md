@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/yannoro/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/yannoro/"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 **linhagem**:: 
 
-**família**:: [[Projetos/1. Oriesên/personagem/avô de Yannoro|avô de Yannoro]] (avô), [[Projetos/1. Oriesên/irmão de Yannoro|irmão de Yannoro]] (irmão mais velho)
+**família**:: [[Projetos/1. Oriesên/personagem/avô da Yannoro|avô da Yannoro]] (avô), [[Projetos/1. Oriesên/irmão da Yannoro|irmão da Yannoro]] (irmão mais velho)
 
 **afetos**:: 
 
