@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/origem-do-universo-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/origem-do-universo-de-oriesen/"}
 ---
+
 
 
 # origem do universo de Oriesên
@@ -16,11 +17,3 @@ O titã "mau" é processado e expulso do projeto, o "bom" acaba se cansando de t
 
 ###### Cenas
 
-
-
----
-##### Links Internos
-[[teoria da simulação|teoria da simulação]]
-[[jogos|jogos]]
-[[NPC|NPC]]
-[[AI|AI]]
