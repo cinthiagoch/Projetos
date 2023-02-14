@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/lugar-politico/peso-1/naarvilien/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/lugar-politico/peso-1/naarvilien/"}
 ---
 
 
@@ -25,11 +25,7 @@ Tem aquelas do sobre a origem dos demônios e do romance trágico de Neiron e a 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -62,11 +58,7 @@ Nome da cidade submersa da antiga [[Projetos/1. Oriesên/local/lugar político/p
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
