@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/panteao-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/panteao-de-oriesen/"}
 ---
 
 
@@ -56,23 +56,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Marek
 
 ###### Descrição
 **domínio**:: [[fogo|fogo]]
 **símbolo**:: [[chamas|chamas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Heris|Heris]]
-
-
-###### Cenas
 
 
 
@@ -84,23 +73,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Hoderant
 
 ###### Descrição
 **domínio**:: [[terra|terra]]
 **símbolo**:: [[rochas|rochas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Goleim|Goleim]]
-
-
-###### Cenas
 
 
 
@@ -112,23 +90,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Olassu
 
 ###### Descrição
 **domínio**:: [[vento|vento]]
 **símbolo**:: [[nuvens|nuvens]] e [[fumaça|fumaça]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Roókar|Roókar]]
-
-
-###### Cenas
 
 
 
@@ -140,23 +107,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Eirol
 
 ###### Descrição
 **domínio**:: [[água|água]]
 **símbolo**:: [[ondas|ondas]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Abaie|Abaie]]
-
-
-###### Cenas
 
 
 
@@ -170,23 +126,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Aki
 
 ###### Descrição
 **domínio**:: [[natureza|natureza]]
 **símbolo**:: flores ([[magnólias|magnólias]]), [[pássaros|pássaros]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -198,23 +143,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Lanat
 
 ###### Descrição
 **domínio**:: [[conhecimento|conhecimento]]
 **símbolo**:: [[livro|livro]] e [[vela|vela]]
 **avatar**:: [[Projetos/1. Oriesên/personagem/Ogmia|Ogmia]]
-
-
-###### Cenas
 
 
 
@@ -226,23 +160,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Vahlena
 
 ###### Descrição
 **domínio**:: [[magia|magia]]
 **símbolo**:: [[cetro|cetro]] longo e [[raio|raio]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -256,23 +179,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Bonni
 
 ###### Descrição
 **domínio**:: [[vida|vida]], [[dia|dia]] e [[luz|luz]]
 **símbolo**:: [[lua|lua]], [[lua de prata|lua de prata]] e [[sapo|sapo]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -284,23 +196,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Yanni
 
 ###### Descrição
 **domínio**:: [[morte|morte]], [[noite|noite]] e [[escuridão|escuridão]]
 **símbolo**:: [[lua|lua]], [[lua de sangue|lua de sangue]] e [[chacal|chacal]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -312,23 +213,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Selkor
 
 ###### Descrição
 **domínio**:: [[guerra|guerra]] e [[caça|caça]]
 **símbolo**:: [[lança|lança]] e [[arco|arco]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -340,23 +230,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Cyris
 
 ###### Descrição
 **domínio**:: [[paz|paz]], [[prosperidade|prosperidade]] e [[saúde|saúde]]
 **símbolo**:: [[cálice|cálice]], [[moedas|moedas]] e [[serpente|serpente]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -368,23 +247,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Zarus
 
 ###### Descrição
 **domínio**:: [[ordem|ordem]] e [[justiça|justiça]]
 **símbolo**:: [[balança|balança]] e [[espada|espada]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -396,23 +264,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Jinn
 
 ###### Descrição
 **domínio**:: [[amor|amor]] e [[fertilidade|fertilidade]]
 **símbolo**:: [[cornucópia|cornucópia]] e [[lebres|lebres]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -424,23 +281,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Airondel
 
 ###### Descrição
 **domínio**:: [[sonhos|sonhos]], [[sorte|sorte]] e [[azar|azar]]
 **símbolo**:: [[máscara|máscara]] inumana metade sorridente, metade triste
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -452,23 +298,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Delliandara
 
 ###### Descrição
 **domínio**:: [[artes|artes]] e [[beleza|beleza]]
 **símbolo**:: [[espelho|espelho]] e [[pavão|pavão]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -482,23 +317,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Imneroy
 
 ###### Descrição
 **domínio**:: [[sabedoria|sabedoria]], [[tempo|tempo]] e [[equilíbrio|equilíbrio]]
 **símbolo**:: [[sino|sino]] e [[tartaruga|tartaruga]]/[[grou|grou]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -510,23 +334,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Fydia
 
 ###### Descrição
 **domínio**:: [[reencarnação|reencarnação]]
 **símbolo**:: [[sol|sol]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
@@ -538,23 +351,12 @@ neutro
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-
-# Daagohr
 
 ###### Descrição
 **domínio**:: [[forja|forja]] e [[criação|criação]]
 **símbolo**:: [[martelo|martelo]]
 **avatar**:: 
-
-
-###### Cenas
 
 
 
