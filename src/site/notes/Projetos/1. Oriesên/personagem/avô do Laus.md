@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/avo-do-laus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/avo-do-laus/"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 **afetos**:: 
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
@@ -37,11 +37,11 @@
 **olhos**:: 
 **cabelo**:: 
 
-**rosto**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 60-40 Elfo 40-60|orelhas pontudas]]
+**rosto**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 60-40 Elfo 40-60|orelhas pontudas]]
 
 **corpo**:: 
 
-**detalhes**:: [[Projetos/1. Oriesên/mundo/raças de Oriesên#Humano 60-40 Elfo 40-60|sangue fino]]
+**detalhes**:: [[Projetos/1. Oriesên/mundo/espécies humanóides de Oriesên#Humano 60-40 Elfo 40-60|sangue fino]]
 
 **acessórios**:: [[Projetos/1. Oriesên/mundo/Rokarion|Rokarion]]
 
