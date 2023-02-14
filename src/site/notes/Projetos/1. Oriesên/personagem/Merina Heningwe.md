@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/merina-heningwe/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/merina-heningwe/"}
 ---
 
 
@@ -25,9 +25,9 @@
 
 **família**:: [[Projetos/1. Oriesên/personagem/Laus Heningwe|Laus Heningwe]] (esposo), [[Projetos/1. Oriesên/personagem/Lis Heningwe|Lis Heningwe]] (filha), [[Projetos/1. Oriesên/personagem/Seline Heningwe|Seline Heningwe]] (filha)
 
-**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor|Gilfor]], [[Projetos/1. Oriesên/personagem/Joara|Joara]]
+**afetos**:: [[Projetos/1. Oriesên/personagem/Gilfor Eldaron|Gilfor Eldaron]], [[Projetos/1. Oriesên/personagem/Joara|Joara]]
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
