@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/dilberon-do-keltwan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/dilberon-do-keltwan/"}
 ---
 
 
@@ -28,7 +28,7 @@
 
 **afetos**:: [[Projetos/1. Oriesên/pai da Isatore|pai da Isatore]] (cunhado), [[Projetos/1. Oriesên/personagem/Isatore|Isatore]] (sobrinha), 
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: nobres de [[Projetos/1. Oriesên/local/lugar político/peso 1/Thorian#Margrel|Margrel]]
 
