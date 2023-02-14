@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-3/rio-ahruun/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/local/geografia/peso-3/rio-ahruun/"}
 ---
 
 
