@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/mae-do-laus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/mae-do-laus/"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 **afetos**:: 
 
-**alianças**:: [[Projetos/1. Oriesên/Ordem dos Relicários|Ordem dos Relicários]]
+**alianças**:: [[Projetos/1. Oriesên/mundo/Ordem dos Relicários|Ordem dos Relicários]]
 
 **desafetos**:: 
 
