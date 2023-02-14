@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/datas-de-nascimento-e-morte-em-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/datas-de-nascimento-e-morte-em-oriesen/"}
 ---
+
 
 
 # datas de nascimento e morte em Oriesên
@@ -53,7 +54,7 @@
 | [[Projetos/1. Oriesên/personagem/Torôndier.md\|Torôndier]]                                                                             | 2376 EC    | \-      |
 | [[Projetos/1. Oriesên/personagem/Carla Martins.md\|Carla Martins]]                                                                     | 2373 EC    | \-      |
 | [[Projetos/1. Oriesên/personagem/Antônio Martins.md\|Antônio Martins]]                                                                 | 2370 EC    | \-      |
-| [[Projetos/1. Oriesên/personagem/Gilfor.md\|Gilfor]]                                                                                   | 2366 EC    | 3 ET    |
+| [[Projetos/1. Oriesên/personagem/Gilfor Eldaron.md\|Gilfor Eldaron]]                                                                   | 2366 EC    | 3 ET    |
 | [[Projetos/1. Oriesên/personagem/elfo de Elendorin.md\|elfo de Elendorin]]                                                             | 2296 EC    | 2434 EC |
 | [[Projetos/1. Oriesên/personagem/Neiron.md\|Neiron]]                                                                                   | 2090 EC    | 2435 EC |
 
@@ -63,12 +64,3 @@
 | arquivo | nascimento | morte |
 | ------- | ---------- | ----- |
 
-
-
----
-###### Links Internos
-[[calendário|calendário]]
-[[datas|datas]]
-[[Era Tecnológica|Era Tecnológica]]
-[[Projetos/1. Oriesên/mundo/Era dos Cristais|Era dos Cristais]]
-[[Era Primitiva|Era Primitiva]]
