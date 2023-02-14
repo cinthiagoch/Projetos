@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/conde-de-aliria/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/personagem/conde-de-aliria/"}
 ---
 
 
@@ -24,7 +24,8 @@ O primeiro, que o substiruirá, é um bom administrador, e se encarrega de cuida
 
 O segundo se encarregou de cuidar da magia que permite que a ilha continue existindo.
 
-[[Projetos/1. Oriesên/Elona|Elona]], o terceiro cuida dos aspectos religiosos e do bem estar dos cidadãos.
+O terceiro cuida dos aspectos religiosos e do bem estar dos cidadãos.
+***Será que faço ele ser o [[Projetos/1. Oriesên/personagem/Elona|Elona]]? Ver se é possível encaixar as datas com as crônicas de [[Projetos/1. Oriesên/personagem/Guillia|Guillia]].***
 
 O quarto é o mais vápido, com ares de artista (poesia e teatro), mas pelo menos gerencia a agenda cultural da ilha.
 
@@ -32,11 +33,11 @@ O quarto é o mais vápido, com ares de artista (poesia e teatro), mas pelo meno
 
 
 ## Conecções
-**lar**:: [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]], [[Projetos/1. Oriesên/Nova Naarvilien|Nova Naarvilien]]
+**lar**:: [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Naarvilien]], [[Projetos/1. Oriesên/local/lugar político/peso 1/Naarvilien|Nova Naarvilien]]
 
 **linhagem**:: 
 
-**família**:: esposa, filho, [[Projetos/1. Oriesên/pai do elfinho|pai do elfinho]] (filho), [[Projetos/1. Oriesên/Elona|Elona]] (filho), filho, [[Projetos/1. Oriesên/personagem/Ruome Jilash|Ruome Jilash]] (filho)
+**família**:: esposa, filho, [[Projetos/1. Oriesên/pai do elfinho|pai do elfinho]] (filho), [[Projetos/1. Oriesên/personagem/Elona|Elona]] (filho), filho, [[Projetos/1. Oriesên/personagem/Ruome Jilash|Ruome Jilash]] (filho)
 
 **afetos**:: todos os netos e netas
 
