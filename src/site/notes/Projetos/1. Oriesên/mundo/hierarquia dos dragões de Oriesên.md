@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/hierarquia-dos-dragoes-de-oriesen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/projetos/1-oriesen/mundo/hierarquia-dos-dragoes-de-oriesen/"}
 ---
+
 
 
 # hierarquia dos dragões de Oriesên
@@ -17,10 +18,3 @@ Título to rei dos [[dragões vermelhos|dragões vermelhos]].
 
 ## The Lord of the White Peaks
 Título do rei dos [[dragões brancos|dragões brancos]].
-
-
----
-##### Links Internos
-[[raças fictícias|raças fictícias]]
-[[dragões|dragões]]
-[[hierarquia|hierarquia]]
